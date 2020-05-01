@@ -1,5 +1,6 @@
-# Reproducibility
-Experimenting with different techniques for reproducibility in deep learning.
+# Post-hoc Explainability of DL Models using CANs
+
+Experimenting with different techniques for explainability of deep learning applications in computational astronomy.
 
 The project deals with the following:
 
