@@ -84,7 +84,7 @@ Once the light curve data is placed in the appropriate folder configuration, run
 
 *grad-CAM is another way of visualizing attention over input which uses penultimate (pre Dense layer) Conv layer output. The intuition is to use the nearest Conv layer to utilize spatial information that gets completely lost in Dense layers.* - [Class Activation Maps](https://raghakot.github.io/keras-vis/visualizations/class_activation_maps/)
 
-![alt text](https://github.com/MeetGandhi/Post-hoc-Explainability-of-Deep-Learning-Models-using-Conditional-Adversarial-Networks/blob/master/cnn%20interpretations/keras-vis/grad_CAM/EW/1005.png "gradCAM of 1005th test dmdt")
+![alt text](https://github.com/MeetGandhi/Post-hoc-Explainability-of-Deep-Learning-Models-using-Conditional-Adversarial-Networks/blob/master/XAI/cnn%20interpretations/keras-vis/grad_CAM/EW/1005.png "gradCAM of 1005th test dmdt")
 
 #### [Saliency Maps](https://arxiv.org/pdf/1312.6034v2.pdf)
 
